@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @krist-villa
-- 👀 I’m interested in music and keebs
+- 👋 Hi, I’m @krist-villa.
+- 👀 I’m interested in music, keebs and designing structures in Sims.
 - 🌱 I’m currently learning different languages as a beginner in coding.
-- 💞️ I’m looking to collaborate on design projects and website development in the future!
+- 💞️ I have a background in architectural and interior design.
 - 📫 How to reach me: look for me on social media if you have the link ;)
 
 <!---
